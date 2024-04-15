@@ -36,11 +36,7 @@ h3 {
   z-index: 9999999;
 
 }
-/* Start Games Sections */
 
-.games .wrapp {
-  background-color: var(--main-bg-color);
-}
 /* Start Nav */
 .navbar {
   padding: 0;
